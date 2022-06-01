@@ -11,3 +11,11 @@
 /**
  * END --- SETUP TAILWINDCSS EDIT
  */
+
+body {
+  @apply bg-gray-100;
+}
+
+h1 {
+  @apply text-2xl;
+}
